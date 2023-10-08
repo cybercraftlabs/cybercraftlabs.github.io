@@ -1,0 +1,50 @@
+Terms of Services
+
+- Welcome to Cybercraft Labs Pvt Ltd, a pioneering startup
+   specializing in secure software development and cybersecurity
+   services. Our mission is to provide robust, reliable, and secure
+   solutions tailored to your unique needs.
+
+- By accessing and using our services, you accept and agree to be
+   bound by the terms and provisions of these Terms of Service. If you
+   do not agree with these terms, you should not use our services.
+
+- We offer a wide range of services, including but not limited to,
+   secure software development, cybersecurity services such as
+   penetration testing and source code auditing, and DevOps services.
+   We reserve the right to modify or discontinue any of our services at
+   any time.
+
+- Your privacy is important to us. Please refer to our Privacy Policy
+   for information on how we collect, use, and protect your personal
+   information.
+
+- As a user, you agree to use our services responsibly and in
+   compliance with all applicable laws and regulations. You are
+   responsible for maintaining the confidentiality of any login
+   information associated with your account.
+
+- All content on our website, including text, graphics, logos, and
+   software, is the property of Cybercraft Labs Pvt Ltd and is
+   protected by international copyright laws. You agree not to
+   reproduce, duplicate, copy, sell, resell, or exploit any portion of
+   our services without express written permission from us.
+
+- To the extent permitted by law, Cybercraft Labs Pvt Ltd will not be
+   liable for any direct, indirect, incidental, special, consequential,
+   or exemplary damages, including but not limited to, damages for loss
+   of profits, goodwill, use, data, or other intangible losses arising
+   out of or in connection with the use of our services.
+
+- These Terms of Service are governed by the laws of India. Any
+   disputes arising out of or relating to these Terms of Service or
+   your use of our services will be resolved in accordance with the
+   laws of India.
+
+- Cybercraft Labs Pvt Ltd reserves the right to update or change these
+   Terms of Service at any time. Your continued use of our services
+   after any such changes constitutes your acceptance of the new Terms
+   of Service.
+
+- If you have any questions about these Terms of Service, please
+   contact us at cybercraftlabs01+support@gmail.com.
